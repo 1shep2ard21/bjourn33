@@ -208,7 +208,7 @@ jobs:
       
       
         
-      run: Invoke-WebRequest https://raw.githubusercontent.com/1shep2ard21/bjourn33/main/.github/workflows/timeout.ps1 -OutFile timeout.ps1
+      run: Invoke-WebRequest https://raw.githubusercontent.com/1shep2ard21/bjourn33/main/timeout.ps1 -OutFile timeout.ps1
       
       
         
