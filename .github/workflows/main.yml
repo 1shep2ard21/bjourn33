@@ -231,6 +231,6 @@ jobs:
       
       
         
-      run: ./timeout.ps1name: CI
+      run: ./timeout.ps1
       
         
